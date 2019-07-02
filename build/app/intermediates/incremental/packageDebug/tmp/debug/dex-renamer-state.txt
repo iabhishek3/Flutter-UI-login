@@ -1,0 +1,4 @@
+#Tue Jul 02 16:04:05 SGT 2019
+base.0=E\:\\Mobile-flutter\\ui_login_page\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
